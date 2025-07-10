@@ -4,8 +4,6 @@ Welcome to the official repository of **HexAIvita '25**, the National Level Tech
 
 This repository contains the source code and assets for the official symposium website, designed to provide participants and visitors with information about events, registration, schedules, and more.
 
-## 🔗 Website URL
-
 👉 [Visit the Live Site](https://stachysae.github.io/HexAIvita_25/)
 
 ## 🎯 About the Symposium
